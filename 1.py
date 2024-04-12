@@ -70,7 +70,7 @@
 #         with Image.open(filename) as img:
 #             img.load()
 
-
+#kfdhg
 
 from tkinter import *
 
